@@ -21,4 +21,4 @@
 
 ## 💖 Support me:
 
-- [Buy me a coffee](buymeacoff.ee/mdashlw)
+- [Buy me a coffee](https://buymeacoff.ee/mdashlw)
