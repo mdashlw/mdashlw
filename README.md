@@ -6,6 +6,7 @@
 
 - [Wrench](https://discord.com/oauth2/authorize?client_id=496937851251064843&scope=bot&permissions=355392) — Discord Bot with many useful Hypixel and general purpose features.
 - [better-friend-list](https://github.com/mdashlw/better-friend-list) — Better friends list for Hypixel.
+- [smart-reply](https://github.com/mdashlw/smart-reply) — Smarter /reply system for Hypixel.
 
 ## 🌱 I’m currently learning
 
