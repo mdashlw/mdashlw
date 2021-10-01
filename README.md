@@ -15,6 +15,7 @@
 - Discord: `mdash#0001` (ID: `213947970809364481`)
 - Telegram: https://t.me/mdashlw
 - Twitter: https://twitter.com/mdashlw
+- mdashlw@gmail.com
 
 #### 😄 Pronouns: he/him
 
