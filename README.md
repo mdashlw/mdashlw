@@ -12,7 +12,7 @@
 
 #### 📫 How to reach me:
 
-- Discord: `mdash#0001` (ID: `213947970809364481`)
+- Discord: [mdash#0001](https://discord.com/users/213947970809364481) (ID: `213947970809364481`)
 - Telegram: https://t.me/mdashlw
 - Twitter: https://twitter.com/mdashlw
 - mdashlw@gmail.com
