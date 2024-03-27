@@ -4,10 +4,14 @@
 
 #### 🌱 Skills
 
+* TypeScript
+* JavaScript
+* Node.js
 * Java
 * Kotlin
-* JavaScript (Node.js)
 * Python
+* Docker
+* PostgreSQL
 * MongoDB
 
 #### 🔭 Projects
